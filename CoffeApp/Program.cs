@@ -1,14 +1,14 @@
 ﻿
 public class Coffee
 {
-    private readonly List<string> _ingredients = new();
+    public List<string> Ingredients = new();
 
-    public void Add(string ingredient) => _ingredients.Add(ingredient);
+    public void Add(string ingredient) => Ingredients.Add(ingredient);
 
     public void Display()
     {
         Console.WriteLine("Coffee contains:");
-        foreach (var ingredient in _ingredients)
+        foreach (var ingredient in Ingredients)
         {
             Console.WriteLine("- " + ingredient);
         }
