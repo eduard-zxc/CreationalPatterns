@@ -1,0 +1,14 @@
+/Users/eduard/Wokspace/Amdaris/CreationPattern/CoffeApp/bin/Debug/net9.0/CoffeApp
+/Users/eduard/Wokspace/Amdaris/CreationPattern/CoffeApp/bin/Debug/net9.0/CoffeApp.deps.json
+/Users/eduard/Wokspace/Amdaris/CreationPattern/CoffeApp/bin/Debug/net9.0/CoffeApp.runtimeconfig.json
+/Users/eduard/Wokspace/Amdaris/CreationPattern/CoffeApp/bin/Debug/net9.0/CoffeApp.dll
+/Users/eduard/Wokspace/Amdaris/CreationPattern/CoffeApp/bin/Debug/net9.0/CoffeApp.pdb
+/Users/eduard/Wokspace/Amdaris/CreationPattern/CoffeApp/obj/Debug/net9.0/CoffeApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduard/Wokspace/Amdaris/CreationPattern/CoffeApp/obj/Debug/net9.0/CoffeApp.AssemblyInfoInputs.cache
+/Users/eduard/Wokspace/Amdaris/CreationPattern/CoffeApp/obj/Debug/net9.0/CoffeApp.AssemblyInfo.cs
+/Users/eduard/Wokspace/Amdaris/CreationPattern/CoffeApp/obj/Debug/net9.0/CoffeApp.csproj.CoreCompileInputs.cache
+/Users/eduard/Wokspace/Amdaris/CreationPattern/CoffeApp/obj/Debug/net9.0/CoffeApp.dll
+/Users/eduard/Wokspace/Amdaris/CreationPattern/CoffeApp/obj/Debug/net9.0/refint/CoffeApp.dll
+/Users/eduard/Wokspace/Amdaris/CreationPattern/CoffeApp/obj/Debug/net9.0/CoffeApp.pdb
+/Users/eduard/Wokspace/Amdaris/CreationPattern/CoffeApp/obj/Debug/net9.0/CoffeApp.genruntimeconfig.cache
+/Users/eduard/Wokspace/Amdaris/CreationPattern/CoffeApp/obj/Debug/net9.0/ref/CoffeApp.dll
